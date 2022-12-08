@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.bg-blue {
+    background-color: #96acdc;
+}
+.bg-red {
+    background-color: #f89c9c;
+}
+.row-height {
+    height: 20rem;
+}
+img {
+    width: 100%;
+}
